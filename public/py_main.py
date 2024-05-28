@@ -6,7 +6,6 @@ import math
 import numpy as np
 import matplotlib.pyplot as plt
 import random
-import ctypes
 ### do not delete this import scripts ###
 
 def DS_KDS_2019(importance_factor, response_modi_coef, maximum_period, sds, sd1):
