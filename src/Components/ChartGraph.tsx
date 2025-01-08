@@ -41,7 +41,7 @@ const CompChartBottom = (props: any) => {
             width={850}
             height={300}
             data={data}
-            legends
+            legends={true}
             axisBottom
             axisBottomTickValues={5}
             axisBottomDecimals={2}

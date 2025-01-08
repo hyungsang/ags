@@ -1,4 +1,3 @@
-
 /**
 * @title 2-wrapper
 * @description Wrapper for Pyscript
